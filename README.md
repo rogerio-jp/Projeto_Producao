@@ -1,10 +1,10 @@
-# 📊 Dashboard de Produção – Niterra do Brasil
+# 📊 Dashboard de Produção 
 
 > Otimizei indicadores de produção e qualidade com Power BI, DAX e dados reais da operação de cabos.
 
 ## 🖼️ Exemplo do Dashboard
 
-![Dashboard de Produção](./dashboard.png)
+![dashboard png](https://github.com/user-attachments/assets/80647824-73d6-4ece-a5fa-45404c9664f8)
 
 ## 🎯 Objetivo
 
