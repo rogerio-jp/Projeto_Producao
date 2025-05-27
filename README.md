@@ -1,6 +1,6 @@
 # 📊 Dashboard de Produção 
 
-> Otimizei indicadores de produção e qualidade com Power BI, DAX e dados reais da operação de cabos.
+> Otimizei indicadores de produção e qualidade com Power BI, DAX.
 
 ## 🖼️ Exemplo do Dashboard
 
