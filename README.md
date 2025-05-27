@@ -57,7 +57,7 @@ M Total Produzidas = [M Peças_Aprovadas] + [M Peças_rejeitadas]
 
 ## 🔗 Links
 
-- 🌐 [Portfólio completo](https://portifoliohtmlcss-xi.vercel.app)
+- 🌐 [Portfólio completo]()
 - 💼 [LinkedIn](https://www.linkedin.com/in/rogerio-costa-7118b0245/)
 
 ---
